@@ -1,5 +1,4 @@
 <div align="center">
-  <img alt="FuFan Chat Logo" width="120" height="120" src="https://muyu001.oss-cn-beijing.aliyuncs.com/img/20240823192944.jpg">
   <h1>Rag Chat Api</h1>
 </div>
 
